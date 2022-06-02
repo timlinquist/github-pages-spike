@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: infra eng documentation
 description: Documentation portal for infra eng
 domain: mulesoft-infra-eng-docs.github.io
-baseurl: /REPOSITORY-NAME/docs
+baseurl: /github-pages-spike/docs
